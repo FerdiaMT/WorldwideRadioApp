@@ -1,5 +1,5 @@
 package application;
-
+//THIS IS AN ECLIPSE GITHUB TEST
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
