@@ -20,7 +20,7 @@ public class StationData {
             new Station("RTE Radio 1", "https://liveaudio.rte.ie/hls-radio/ieradio1/chunklist.m3u8", "/assets/IRE/rte1.png"),
             new Station("RTE Radio 2", "https://liveaudio.rte.ie/hls-radio/ie2fm/chunklist.m3u8", "/assets/IRE/2fm.png"),
             new Station("RTE Lyric FM", "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8", "/assets/IRE/lyric.png"),
-            new Station("Newstalk", "https://www.goloudplayer.com/radio/newstalk", "/assets/IRE/rte1.png"),  // NOT WORKING
+            new Station("Newstalk", "https://www.goloudplayer.com/radio/newstalk", "/assets/IRE/newstalk.png"),  // NOT WORKING
             new Station("Radio 1 Extra", "https://22733.live.streamtheworld.com/RTE_RADIO_1_EXTRAAAC/HLS/e3f1be02-3bf3-4201-970e-6b3739c66bff/0/playlist.m3u8", "/assets/IRE/extra.png"),  // NOT WORKING
             new Station("Radio na Gaeltachta", "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8", "/assets/IRE/rnag.png")
         ));
